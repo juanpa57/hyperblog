@@ -2,8 +2,8 @@
 body
 {
 
-    color: blue;
-    text-align: left;
+    color:#333;
+    text-align: center;
     font-family: "Arial";
 
     font-size: 16px;
@@ -44,4 +44,12 @@ body
 #post
 {
     padding: 1em;
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
